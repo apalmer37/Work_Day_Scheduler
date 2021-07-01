@@ -17,7 +17,7 @@ window.onload = function(){
   $("#currentDay").html(todayDate);
 
 
-// each timeblock is color coded to indicate whether it is in the past (gray), present (red), or future (green)
+// each timeblock is color coded to indicate whether it is in the past(gray), present(red), or future(green).
 var now = new Date().getHours();
 
 function colorCode() {
