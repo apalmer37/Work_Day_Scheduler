@@ -12,17 +12,12 @@ window.onload = function(){
     fivePM();
    }
   
-  // WHEN I open the planner
-  // THEN the current day and time is displayed at the top of the calendar
-  
+// current date
   var todayDate = moment().format('dddd, MMM Do YYYY');
   $("#currentDay").html(todayDate);
 
-   // WHEN I scroll down
-// THEN I am presented with timeblocks for standard business hours
-// WHEN I view the timeblocks for that day
-// THEN each timeblock is color coded to indicate whether it is in the past (gray), present (red), or future (green)
 
+// each timeblock is color coded to indicate whether it is in the past (gray), present (red), or future (green)
 var now = new Date().getHours();
 
 function colorCode() {
