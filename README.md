@@ -28,6 +28,9 @@ __________________________________________________________________
 
 
 Web Address:
+https://apalmer37.github.io/Work_Day_Scheduler_AlexPalmer/
+
+https://github.com/apalmer37/Work_Day_Scheduler_AlexPalmer
 
 
 
