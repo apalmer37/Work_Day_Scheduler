@@ -32,6 +32,8 @@ https://apalmer37.github.io/Work_Day_Scheduler_AlexPalmer/
 
 https://github.com/apalmer37/Work_Day_Scheduler_AlexPalmer
 
+file:///Users/AP/UR-Bootcamp/Work_Day_Scheduler_AlexPalmer/index.html
+
 
 
 __________________________________________________________________
